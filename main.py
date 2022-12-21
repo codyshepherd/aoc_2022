@@ -7,6 +7,7 @@ from d3 import d3
 from d4 import d4
 from d5 import d5
 from d6 import d6
+from d7 import d7
 # This is a sample Python script.
 
 
@@ -30,6 +31,7 @@ main.add_command(d5.p1)
 main.add_command(d5.p2)
 main.add_command(d6.p1)
 main.add_command(d6.p2)
+main.add_command(d7.p1)
 
 
 # Press the green button in the gutter to run the script.
